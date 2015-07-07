@@ -34,7 +34,7 @@ coordinate,2geocode,Nome,Cognome,Città in cui operi,Sei...,,twitter,Professione
 "41.8933439,12.4830718",Roma,Filippo,D'Angelo,Roma,un appassionato di opendata,,@Fildang,Funzionario PA,,41.8933439,12.4830718,41.8933439,12.4830718
 "37.3122991,13.57465",Agrigento,Giovanni,Noto,Agrigento,un appassionato di opendata,,@NotoGiovanni,Geologo,dati geologici,37.3122991,13.57465,37.3122991,13.57465
 "38.11127,13.3534422",Palermo ,Antonio,Giordano,Palermo ,un appassionato di opendata,,@giordano1977,Giornalista,"qualsiasi, siamo all'anno zero. O quasi. ",38.11127,13.3534422,38.11127,13.3534422
-"45.466797,9.1905368",Milano,Vincenzo,Errante,Milano,uno smanettone di codice,,@vincenzoerrante,Consulente IT,Orari mezzi pubblici città siciliane,45.466797,9.1905368,45.466797,9.1905368
+"45.4667971,9.1904984",Milano,Vincenzo,Errante,Milano,uno smanettone di codice,,@vincenzoerrante,Consulente IT,Orari mezzi pubblici città siciliane,45.4667971,9.1904984,45.4667971,9.1904984
 "37.5026081,15.0871114",Catania,Diego,Reforgiato Recupero,Catania,uno che lavora con gli opendata,,diegoref,Ricercatore/Imprenditore,,37.5026081,15.0871114,37.5026081,15.0871114
 "37.5026081,15.0871114",Catania,valentina,Presutti,Catania,uno che lavora con gli opendata,,,Ricercatore,,37.5026081,15.0871114,37.5026081,15.0871114
 "37.5026081,15.0871114",Catania,Aldo,Gangemi,Catania,uno che lavora con gli opendata,,,Ricercatore/Professore,,37.5026081,15.0871114,37.5026081,15.0871114
@@ -53,3 +53,4 @@ coordinate,2geocode,Nome,Cognome,Città in cui operi,Sei...,,twitter,Professione
 "37.0714375,15.283007",Siracusa,Claudia,Busetto,Siracusa,uno che lavora con gli opendata,,@claudiabusetto,Progettista web e consulente comunicazione,istruzione ,37.0714375,15.283007,37.0714375,15.283007
 "37.3122991,13.57465",Agrigento,Lucia,Argento,Agrigento,un appassionato di opendata,,luciaargento,Archeologa ,"Siti archeologici e storico-culturali della provincia di Agrigento indagati o in corso di scavo da parte della Soprintendenza, magari corredati da una bel WebGIS (insomma una carta archeologica con scopo preventivo, sto sognando eh?)",37.3122991,13.57465,37.3122991,13.57465
 "37.973347,13.188143",San Giuseppe Jato,Giuseppe,Ragusa,San Giuseppe Jato,un appassionato di opendata,,@giuragu,Consulente,"Dataset dei Distretti socio sanitari, Dataset degli enti locali, in generale dataset necessari alla creazione di una coscienza critica da parte dei cittadini basata su dati ufficiali e non sul passaparola...",37.973347,13.188143,37.973347,13.188143
+"38.11127,13.3534422",palermo,joska,arena,palermo,un appassionato di opendata,,,centralinista operatore sistema gps,"impianti sportivi del comune di palermo,siti archeologici e naturalistici della PROVINCIA DI PALERMO",38.11127,13.3534422,38.11127,13.3534422
